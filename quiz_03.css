@@ -1,0 +1,15 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+form{
+    border: 2 px, solid black;
+    max-width: 300vw;
+    min-width: 300vw;
+    max-height: 500vh;
+    max-height: 500vh;
+    background-color: ghostwhite;
+    margin: 100px 100px 100px 100px;
+
+}
+
